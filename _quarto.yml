@@ -5,7 +5,7 @@ website:
   title: "VRisk.io"
   navbar:
     logo: img/logo.png
-    background: light
+    background: bg-light
     search: true
     tools: 
       - icon: linkedin
