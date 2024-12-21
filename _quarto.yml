@@ -2,14 +2,15 @@ project:
   type: website
 
 website:
-  logo: img/logo.png
+  
   title: "VRisk.io"
   navbar:
-  background: primary
-  search: true
-  tools: 
-    - icon: linkedin
-      href: https://www.linkedin.com/in/owen-vallis-risk-manager
+    logo: img/logo.png
+    background: primary
+    search: true
+    tools: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/owen-vallis-risk-manager
     left:
       - href: index.qmd
         text: Home
