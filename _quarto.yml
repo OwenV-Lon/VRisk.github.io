@@ -2,11 +2,10 @@ project:
   type: website
 
 website:
-  
   title: "VRisk.io"
   navbar:
     logo: img/logo.png
-    background: primary
+    background: light
     search: true
     tools: 
       - icon: linkedin
