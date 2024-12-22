@@ -2,5 +2,6 @@
 title: "About"
 ---
 
-This is a page all about this site and what I want it to deliver. It will have biographical information about me, and a subset of links to my LinkedIn and X and other media.
+The author is a versatile and highly experienced C-Suite leader, with two decades of complex financial management and organisational performance experience at major global Investment Management firms.
+
 
