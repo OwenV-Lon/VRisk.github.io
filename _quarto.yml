@@ -24,12 +24,7 @@ format:
     theme: cosmo
     code-copy: true
     code-overflow: wrap
-    css: styles.css
     toc: true
-    grid:
-      sidebar-width: 250px
-      #body-width: 900px
-      margin-width: 300px
-
+    
 
 
