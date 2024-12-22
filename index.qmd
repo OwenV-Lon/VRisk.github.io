@@ -20,3 +20,10 @@ css: index.css
 ### Risk Management is everyone's responsibility, inform, debate and discuss here on VRisk.io
 
 :::
+
+:::
+
+::: {.alt-background}
+::: {.content-block}
+
+:::
