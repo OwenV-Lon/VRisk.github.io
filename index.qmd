@@ -1,6 +1,6 @@
 ---
 title: ""
-backgroundcolor: primary
+backgroundColor: e7f0ff
 ---
 
 ![logo](img/logo.png)
