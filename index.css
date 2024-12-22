@@ -35,7 +35,7 @@
   }
   
   
-  .hero-banner .hero-image {
+  /*.hero-banner .hero-image {
     position: absolute;
     display: none;
     height: auto;
@@ -221,7 +221,7 @@
     max-height: 660px;
   }*/
   
-  .features {
+  /*.features {
     padding-bottom: 2em;
   }
   
