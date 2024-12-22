@@ -1,6 +1,7 @@
 ---
 title: ""
 title-block-style: default
+breadcrumbs: false
 background-color: "#e7f0ff"
 toc: false
 navbar:

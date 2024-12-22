@@ -6,6 +6,7 @@ website:
   image: img/logo.png
   favicon: img/logo.png
   page-navigation: true
+  bread-crumbs: true
   navbar:
     logo: img/logo.png
     title: false
