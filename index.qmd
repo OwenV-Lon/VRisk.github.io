@@ -11,12 +11,12 @@ css: index.css
 ::: {.hero-text}
 # Welcome to VRisk.io
 
-### An informative site on the topics of Risk Management, Governance and Organisational Performance.
+#### An informative site on the topics of Risk Management, Governance and Organisational Performance.
 
 - Placeholder Paragraph 1
 - Placeholder Paragraph 2
 - Placeholder Paragraph 3
 
-### Risk Management is everyone's responsibility, inform, debate and discuss here on VRisk.io
+#### Risk Management is everyone's responsibility, inform, debate and discuss here on VRisk.io
 
 :::
