@@ -6,7 +6,7 @@ css: index.css
 ::: {.hero-banner}
 
 
-::: {.content-block}
+<!--::: {.content-block} -->
 
 ::: {.hero-text}
 # Welcome to VRisk.io
