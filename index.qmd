@@ -4,7 +4,8 @@ backgroundColor: e7f0ff
 navigation: empty
 ---
 
-![logo](img/logo.png)
+![logo](img/logo.png){width=40% style="float: left;"}
+
 
 # Welcome to VRisk.io
 
