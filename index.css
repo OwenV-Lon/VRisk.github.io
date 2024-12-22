@@ -62,7 +62,7 @@
     height: 455px;
   }*/
   
-  @media (min-width: 1000px) {
+  /*@media (min-width: 1000px) {
   .hero-banner .hero-image {
     display: initial;
     width: 270px;
