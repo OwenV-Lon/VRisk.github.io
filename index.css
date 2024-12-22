@@ -24,7 +24,7 @@
   */
   .hero-banner {
     position: relative;
-    background-color: rgb(240,245,249);
+    /*background-color: rgb(240,245,249);*/
     display: flex;
     width: 100vw;
     left: 50%;
