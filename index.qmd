@@ -1,11 +1,11 @@
 ---
 title: ""
 backgroundColor: e7f0ff
-page-navigation: false
+sidebar: false
 
 ---
 
-![](img/logo.png){width=30% style="float: left;"}
+![](img/logo.png){width=35% style="float: left;"}
 
 
 # Welcome to VRisk.io
