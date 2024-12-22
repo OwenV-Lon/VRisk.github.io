@@ -1,5 +1,5 @@
 ---
-title: "VRisk.io"
+title: ""
 title-block-style: default
 background-color: "#e7f0ff"
 toc: false
@@ -12,7 +12,7 @@ navbar:
 
 ## **Welcome to VRisk.io – Your Gateway to Smarter Risk Management in Investment Management, Banking, and Global Markets**
 
-VRisk.io is dedicated to helping professionals navigate the intricate and dynamic world of risk management within investment management, banking, and global markets. Whether you’re a seasoned risk expert, a curious learner, or someone striving to stay ahead of industry developments, you’ve found the right place.
+VRisk.io is dedicated to helping financial professionals navigate the intricate and dynamic world of risk management within investment management, banking, and global markets. Whether you’re a seasoned risk expert, a curious learner, or someone striving to stay ahead of industry developments, you’ve found the right place.
 
 Here, you'll discover actionable insights into the principles and practices that underpin risk management in these critical sectors. From practical strategies for managing market, credit, and operational risks to thought-provoking commentary on regulatory changes and emerging trends, VRisk.io is designed to empower you with the knowledge and tools to succeed in today’s fast-paced financial landscape.
 
