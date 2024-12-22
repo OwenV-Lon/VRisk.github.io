@@ -20,6 +20,13 @@ website:
       - about.qmd
       - Insights.qmd
       - Contact.qmd
+  page-footer: 
+    left: "Copyright 2024, Owen Vallis"
+    right: 
+      - icon: linkedin
+      href: https://www.linkedin.com/in/owen-vallis-risk-manager
+      - icon: twitter
+      href: https://twitter.com/VRisk_io
 
 format:
   html:
