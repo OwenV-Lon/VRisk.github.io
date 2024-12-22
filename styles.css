@@ -1,5 +1,5 @@
 
-@media (min-width: 1020px) {
+/*@media (min-width: 1020px) {
     .navbar-brand-container {
       margin-right: 1em;
     }
@@ -293,7 +293,7 @@
       height: 65px;
       display: block;
       margin-bottom: 2px;
-    }
+    }*/
     
     /*
     .panel-tabset[data-group="tools-tabset"] .nav-tabs .nav-link {
@@ -315,7 +315,7 @@
     */
     
     
-    .download-text {
+    /*.download-text {
       font-size: 1.1em;
       font-weight: 500;  
     }
@@ -341,12 +341,12 @@
     span.color-box-container {
       display: inline-flex;
       align-items: center; /* Align vertically */
-    }
+    /*}
     
     span.color-box {
       display: inline-block;
       width: 1em; /* Width of the color box */
-      height: 1em; /* Height of the color box */
-      margin-right: 0.2em; /* Space between box and text */
-      border: 1px solid #000; /* Border color */
-    }/* css styles */
+      /*height: 1em; /* Height of the color box */
+      /*margin-right: 0.2em; /* Space between box and text */
+      /*border: 1px solid #000; /* Border color */
+    /*}/* css styles */
