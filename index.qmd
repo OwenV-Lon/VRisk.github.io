@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Welcome to VRisk.io"
 backgroundColor: e7f0ff
 sidebar: false
 toc: false
@@ -8,8 +8,6 @@ toc: false
 
 ![](img/logo.png){width=35% style="float: left;"}
 
-
-# Welcome to VRisk.io
 
 ### An informative site on the topics of Risk Management, Governance and Organisational Performance.
 
