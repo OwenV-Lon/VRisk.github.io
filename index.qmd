@@ -1,9 +1,11 @@
 ---
-title: ""
+title: "VRisk.io"
 backgroundColor: e7f0ff
+navigation: empty
 ---
 
 ![logo](img/logo.png)
+
 # Welcome to VRisk.io
 
 ### An informative site on the topics of Risk Management, Governance and Organisational Performance.
@@ -13,5 +15,3 @@ backgroundColor: e7f0ff
 - Placeholder Paragraph 3
 
 ### Risk Management is everyone's responsibility, inform, debate and discuss here on VRisk.io
-
-:::
