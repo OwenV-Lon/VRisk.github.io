@@ -9,7 +9,6 @@ website:
   navbar:
     logo: img/logo.png
     title: false
-    background: light
     search: true
     tools: 
       - icon: linkedin
@@ -25,6 +24,7 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: true
+    
     
 
 
