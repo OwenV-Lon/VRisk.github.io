@@ -1,7 +1,8 @@
 ---
 title: ""
 backgroundColor: e7f0ff
-navigation: empty
+page-navigation: false
+
 ---
 
 ![](img/logo.png){width=30% style="float: left;"}
