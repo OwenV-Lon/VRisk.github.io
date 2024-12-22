@@ -3,6 +3,8 @@ project:
 
 website:
   title: "VRisk.io"
+  image: img/logo.png
+  favicon: img.logo.png
   page-navigation: true
   navbar:
     logo: img/logo.png
