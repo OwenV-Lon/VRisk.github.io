@@ -1,11 +1,6 @@
 ---
 title: ""
-css: index.css
 ---
-
-::: {.hero-banner}
-<!--::: {.content-block} -->
-::: {.hero-text}
 
 # Welcome to VRisk.io
 
