@@ -1,7 +1,9 @@
 ---
 title: ""
+backgroundcolor: primary
 ---
 
+![logo](img/logo.png)
 # Welcome to VRisk.io
 
 ### An informative site on the topics of Risk Management, Governance and Organisational Performance.
