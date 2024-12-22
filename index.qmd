@@ -1,5 +1,6 @@
 ---
-title: "Welcome to VRisk.io"
+title: "VRisk.io"
+title-block-style: default
 background-color: "#e7f0ff"
 sidebar: false
 toc: false
