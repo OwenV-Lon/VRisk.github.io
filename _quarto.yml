@@ -5,6 +5,8 @@ website:
   title: "VRisk.io"
   image: img/logo.png
   favicon: img/logo.png
+  twitter-card: true
+  open-graph: true
   page-navigation: true
   bread-crumbs: true
   navbar:
