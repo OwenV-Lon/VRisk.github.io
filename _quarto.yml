@@ -21,7 +21,7 @@ website:
 
 format:
   html:
-    theme: [cosmo, theme.scss]
+    theme: cosmo
     code-copy: true
     code-overflow: wrap
     css: styles.css
