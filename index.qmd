@@ -2,12 +2,11 @@
 title: "VRisk.io"
 title-block-style: default
 background-color: "#e7f0ff"
-sidebar: false
 toc: false
 
 ---
 
-![](img/logo.png){width=35% style="float: left;"}
+![](img/logo.png){width=35% style="justify: left;"}/
 
 
 ### An informative site on the topics of Risk Management, Governance and Organisational Performance.
