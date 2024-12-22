@@ -1,6 +1,6 @@
 ---
 title: "Welcome to VRisk.io"
-backgroundColor: e7f0ff
+background-color: "#e7f0ff"
 sidebar: false
 toc: false
 
