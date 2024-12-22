@@ -11,6 +11,7 @@ website:
     logo: img/logo.png
     title: false
     search: true
+    collapse: true
     tools: 
       - icon: linkedin
         href: https://www.linkedin.com/in/owen-vallis-risk-manager
