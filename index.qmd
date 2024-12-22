@@ -2,6 +2,20 @@
 title: "Risk Management | Governance | Performance"
 ---
 
-This is a Quarto website.
+::: {.hero-banner}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+::: {.content-block}
+
+::: {.hero-text}
+# Welcome to VRisk.io
+
+### An informative site on the topics of Risk Management, Governance and Organisational Performance.
+
+- Placeholder Paragraph 1
+- Placeholder Paragraph 2
+- Placeholder Paragraph 3
+
+### Risk Management is everyone's responsibility, inform, debate and discuss here on VRisk.io
+
+:::

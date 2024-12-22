@@ -3,8 +3,10 @@ project:
 
 website:
   title: "VRisk.io"
+  page-navigation: true
   navbar:
     logo: img/logo.png
+    title: false
     background: light
     search: true
     tools: 
