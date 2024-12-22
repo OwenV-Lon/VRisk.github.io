@@ -1,5 +1,6 @@
 ---
 title: "Insights"
+toc: false
 listing: 
   contents: posts
   sort: "date desc"
