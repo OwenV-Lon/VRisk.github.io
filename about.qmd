@@ -5,9 +5,10 @@ toc: false
 
 
 
-
+<br>
 #### About the Author
-
+<br>
+<br>
 
 
 The author of VRisk.io is an experienced C-suite level risk manager with a distinguished career in investment management, banking, and global markets. Their expertise spans across risk disciplines, with a strategic focus on designing and executing risk frameworks that balance mitigation and opportunity in fast-evolving financial environments.
