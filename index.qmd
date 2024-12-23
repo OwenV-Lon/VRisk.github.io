@@ -8,7 +8,7 @@ navbar:
 
 ---
 
-![](img/logo.png){width=35% style="justify: left;"}/
+![](img/logo.png){width=35% style="justify: left;"} <br>
 
 
 ## **Welcome to VRisk.io – Your Gateway to Smarter Risk Management in Investment Management, Banking, and Global Markets**
