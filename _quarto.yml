@@ -3,12 +3,14 @@ project:
 
 website:
   title: "VRisk.io"
-  announcement:
-    icon: info-circle
-    dismissable: true
-    content: "**ALERT** - This is some information you should pay attention to"
-    type: primary
-    position: below-navbar
+
+#  announcement:
+#    icon: info-circle
+#    dismissable: true
+#    content: "**ALERT** - This is some information you should pay attention to"
+#    type: primary
+#    position: below-navbar
+
   image: img/logo.png
   favicon: img/logo.png
   twitter-card: true
@@ -29,6 +31,7 @@ website:
       - href: about.qmd
         text: About
       - Insights.qmd
+    right:
       - Contact.qmd
   page-footer: 
     right: "Copyright 2024, Owen Vallis"
