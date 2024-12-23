@@ -21,7 +21,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-          text: "About"
+        text: "About"
       - Insights.qmd
       - Contact.qmd
   page-footer: 
