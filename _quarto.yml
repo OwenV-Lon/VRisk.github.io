@@ -19,10 +19,9 @@ website:
         href: https://www.linkedin.com/in/owen-vallis-risk-manager
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-        - href: about.qmd
-          text: About
+        text: Home      
+      - href: about.qmd
+        text: About
       - Insights.qmd
       - Contact.qmd
   page-footer: 
