@@ -3,6 +3,12 @@ project:
 
 website:
   title: "VRisk.io"
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "**ALERT** - This is some information you should pay attention to"
+    type: primary
+    position: below-navbar
   image: img/logo.png
   favicon: img/logo.png
   twitter-card: true
