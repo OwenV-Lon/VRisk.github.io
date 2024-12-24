@@ -35,6 +35,7 @@ website:
       - Contact.qmd
   page-footer: 
     right: "Copyright 2024, Owen Vallis"
+  back-to-top-navigation: true
 
 format:
   html:
