@@ -1,15 +1,13 @@
 ---
 title: "Insights"
 toc: false
-:::{.column-body-outset}
 listing: 
   contents: 
     - "posts/*.qmd"
   sort: "date desc"
-  type: table
+  type: default
   categories: true
-  fields: [date, title, author, reading-time, word-count]
+  fields: [date, title, author, , description, reading-time, word-count]
   date-format: medium
-:::
 css: style.css  
 ---
