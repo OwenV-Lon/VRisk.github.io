@@ -1,6 +1,7 @@
 ---
 title: "Insights"
 toc: false
+:::{.column-body-outset}
 listing: 
   contents: 
     - "posts/*.qmd"
@@ -9,5 +10,6 @@ listing:
   categories: true
   fields: [date, title, author, reading-time, word-count]
   date-format: medium
+:::
 css: style.css  
 ---
