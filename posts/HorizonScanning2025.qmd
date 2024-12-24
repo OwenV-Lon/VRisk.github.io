@@ -1,13 +1,16 @@
 ---
 title: "Risk Management Environment - Horizon Scanning 2025"
 subtitle: ""
-categories: "Horizon Scanning" "Risk"
+categories: 
+  - Horizon Scanning
+  - Enterprise Risk
+  - Opinion
 word-count: true
 reading-time: true
 format: 
   html:
     theme: cosmo
-    page-layout: post
+    page-layout: article
 css: style.css  
 toc: true
 toc-depth: 1
