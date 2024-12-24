@@ -1,0 +1,28 @@
+---
+title: "Risk Management Environment - Horizon Scanning 2025"
+subtitle: ""
+format: 
+  html:
+    theme: cosmo
+    page-layout: article
+css: style.css  
+toc: true
+toc-depth: 1
+toc-title: Contents
+toc-location: left-body
+number-sections: false
+author: Owen Vallis
+orcid: "0000-0005-7263-7064"
+license: "CC BY-ND"
+copyright: 
+  holder: Owen Vallis
+  year: 2024
+---
+# Introduction
+{{<lipsum>}}
+
+# Regulatory Change
+{{<lipsum>}}
+
+# Geo-politics
+{{<lipsum>}}

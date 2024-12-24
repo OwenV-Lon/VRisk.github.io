@@ -31,6 +31,8 @@ website:
       - href: about.qmd
         text: About
       - Insights.qmd
+      - href: Pages/HorizonScanning2025.qmd
+        text: Horizon Scanning 2025
     right:
       - Contact.qmd
   page-footer: 
