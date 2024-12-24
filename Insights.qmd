@@ -9,5 +9,5 @@ listing:
   categories: true
   fields: [date, title, author, reading-time, word-count]
   date-format: medium
-  
+css: style.css  
 ---
