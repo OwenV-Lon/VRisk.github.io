@@ -8,7 +8,9 @@ listing:
   type: default
   categories: true
   fields: [date, title, author, description, reading-time, word-count]
-  max-description-length: 0
+  exclude: 
+    description:
   date-format: medium
+  max-items: 10
 css: style.css  
 ---
