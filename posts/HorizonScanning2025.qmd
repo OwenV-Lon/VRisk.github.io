@@ -12,12 +12,12 @@ reading-time: true
 format: 
   html:
     theme: cosmo
-    page-layout: article
-css: style.scss  
-toc: true
-toc-depth: 1
-toc-title: Contents
-toc-location: left-body
+#    page-layout: article
+    toc: true
+    toc-depth: 1
+    toc-title: Contents
+    toc-location: left-body
+    css: style.css
 number-sections: false
 author: 
   - name: Owen Vallis
