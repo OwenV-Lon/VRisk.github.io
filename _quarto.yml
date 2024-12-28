@@ -16,8 +16,10 @@ website:
   twitter-card: true
   open-graph: true
   page-navigation: true
-  bread-crumbs: true
+  sidebar:
+    logo: img/logo.png
   navbar:
+    bread-crumbs: true
     logo: img/logo.png
     title: false
     search: true
@@ -44,7 +46,7 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: true
-    css: style.css
+    css: posts/style.css
     
     
 
