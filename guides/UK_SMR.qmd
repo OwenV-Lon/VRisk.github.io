@@ -8,7 +8,7 @@ format:
 css: style.css
 title: Quick Guide to the UK Senior Manager Regime
 subtitle: "**Briefing Paper: The UK's Senior Manager and Certification Regime (SMCR)**"
-description: ""
+description: "A brief introduction to SMCR, its objectives, principles and high level requirements"
 categories: 
   - Guide
   - Notes

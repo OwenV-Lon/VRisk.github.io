@@ -8,8 +8,8 @@ listing:
   type: grid
   categories: true
   fields: [date, title, author, description, reading-time, word-count]
-  exclude: 
-    description:
+  exclude: []
+    
   date-format: medium
   max-items: 10
 #css: style.css
