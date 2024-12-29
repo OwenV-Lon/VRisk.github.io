@@ -1,0 +1,209 @@
+---
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-title: On This Page
+    toc-location: right
+
+css: style.css
+title: Guide to the UK Senior Manager Regime
+subtitle: "**Briefing Paper: The UK's Senior Manager and Certification Regime (SMCR)**"
+description: ""
+categories: 
+  - Guide
+  - Notes
+  - Regulations
+author: 
+  - name: Owen Vallis
+    id: ov
+    orcid: "0000-0005-7263-7064"
+date: last-modified
+license: "CC BY-ND"
+copyright: 
+  holder: Owen Vallis
+  year: 2024
+engine: knitr
+---
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+::: {.callout-warning title="WARNING - Disclaimer "}
+This guide is not official regulatory language and may not correctly or completely reflect the requirements of the regulations discussed. The author is not associated with any regulatory body.
+:::
+
+### Introduction
+
+The Senior Manager and Certification Regime (SMCR) is a regulatory framework established by the UK's Prudential Regulation Authority (PRA) and Financial Conduct Authority (FCA) to enhance accountability and governance within financial services firms. Introduced in 2016, the SMCR replaced the Approved Persons Regime and aims to ensure that senior managers are personally accountable for their decisions, promote a culture of compliance, and strengthen consumer protection. This briefing outlines the key components, rules, and compliance requirements under the SMCR.
+
+---
+
+### Key Objectives of the SMCR
+
+1. **Strengthen Accountability**: Ensure senior managers take responsibility for their decisions and actions.
+2. **Enhance Governance**: Improve oversight and management of risks within firms.
+3. **Foster Ethical Culture**: Encourage firms to prioritize integrity, transparency, and fair treatment of customers.
+4. **Improve Consumer Protection**: Minimize misconduct and improve confidence in the financial system.
+
+---
+
+### Core Components of the SMCR
+
+The SMCR comprises three main components:
+
+#### 1. Senior Managers Regime (SMR)
+
+This applies to individuals in key leadership roles responsible for overseeing critical functions within a firm. Key requirements include:
+
+- **Senior Management Functions (SMFs)**: Specific roles such as Chief Executive, Chief Risk Officer, and Heads of Key Business Areas must be approved by the regulator.
+- **Statements of Responsibilities (SoRs)**: Senior managers must provide a clear and detailed document outlining their individual responsibilities.
+- **Duty of Responsibility**: Senior managers can be held personally accountable if they fail to take reasonable steps to prevent regulatory breaches within their area of responsibility.
+
+#### 2. Certification Regime
+
+This applies to employees who are not senior managers but hold positions that could significantly impact customers or the firm’s integrity. Key elements include:
+
+- **Certification Requirement**: Firms must annually certify that these individuals are fit and proper to perform their roles.
+- **Significant Harm Functions (SHFs)**: Roles include client-facing advisors, proprietary traders, and individuals managing critical systems.
+
+#### 3. Conduct Rules
+
+The Conduct Rules apply to almost all employees within financial services firms, providing a baseline for behavior and ethical standards. They are divided into:
+
+- **Individual Conduct Rules**: Applicable to all staff, including requirements to act with integrity, provide appropriate care, and comply with regulations.
+- **Senior Manager Conduct Rules**: Additional rules for senior managers, emphasizing their responsibility for effective control and delegation.
+
+---
+
+### Approved Functions under the SMCR
+
+The following is the full list of Senior Management Functions (SMFs) requiring PRA or FCA approval:
+
+| Function | Identifier |
+|----------|-----------:|
+|Chief Executive Officer |SMF1|
+|Chief Finance Officer |SMF2|
+|Executive Director |SMF3|
+|Chief Risk Officer |SMF4|
+|Head of Internal Audit |SMF5|
+|Head of Key Business Area |SMF6|
+|Group Entity Senior Manager Function |SMF7|
+|Chairman |SMF9|
+|Chair of the Risk Committee |SMF10|
+|Chair of the Audit Committee |SMF11|
+|Chair of the Remuneration Committee |SMF12|
+|Senior Independent Director |SMF14|
+|Compliance Oversight Function |SMF16|
+|Money Laundering Reporting |SMF17|
+|Other Overall Responsibility Function |SMF18|
+
+
+
+### Certified Functions under the SMCR
+
+Certified functions are roles that do not require regulatory approval but are deemed critical to a firm’s integrity. These include:
+
+1. **Significant Management Functions**: Individuals managing large teams or key business units.
+2. **Proprietary Traders**: Staff involved in trading activities that could pose significant risks to the firm.
+3. **CASS Oversight Function**: Roles responsible for overseeing compliance with the Client Assets Sourcebook.
+4. **Material Risk Takers**: Employees whose decisions could materially affect the firm’s risk profile.
+5. **Client Dealing Functions**: Roles involving advising, arranging, or dealing with customers.
+6. **Algorithmic Trading Functions**: Individuals responsible for the design and oversight of algorithmic trading systems.
+
+To qualify as a certified function, the role must meet the following criteria:
+
+- The individual’s actions or decisions could significantly impact the firm’s business or customers.
+- The role requires specific skills, knowledge, or experience to ensure effective performance.
+- The individual must be certified annually by the firm as fit and proper to perform the function.
+
+---
+
+### Conduct Rules
+
+#### Individual Conduct Rules
+
+1. **Integrity**: Act with honesty and integrity in all actions.
+2. **Due Care, Skill, and Diligence**: Perform duties with care and attention to detail.
+3. **Cooperation with Regulators**: Be open and cooperative with the FCA, PRA, and other regulatory bodies.
+4. **Customer Interests**: Always act in the best interests of customers.
+5. **Market Conduct**: Observe proper standards of market conduct in all activities.
+
+#### Senior Manager Conduct Rules
+
+1. **Reasonable Steps**: Take reasonable steps to ensure the firm’s business is controlled effectively.
+2. **Compliance**: Ensure the business complies with relevant regulatory requirements.
+3. **Delegation Oversight**: Ensure any delegation of responsibilities is appropriate and effective.
+4. **Disclosure**: Disclose appropriately any information of which the FCA or PRA would reasonably expect notice.
+
+---
+
+### Compliance Requirements
+
+#### 1. Implementation and Oversight
+
+Firms must establish clear governance structures to ensure SMCR compliance. This includes:
+- Identifying all Senior Management Functions and Significant Harm Functions.
+- Preparing Statements of Responsibilities for senior managers.
+- Conducting regular reviews of roles and responsibilities.
+
+#### 2. Fitness and Propriety Assessments
+
+Firms must assess the suitability of senior managers and certified individuals, focusing on:
+- **Honesty, Integrity, and Reputation**: Ensuring individuals have a history of ethical behavior.
+- **Competence and Capability**: Evaluating skills and experience relevant to their role.
+- **Financial Soundness**: Checking for financial stability and solvency.
+
+#### 3. Training and Awareness
+
+Firms must provide regular training to employees on the Conduct Rules and their implications. This ensures all staff understand their responsibilities under the regime.
+
+#### 4. Recordkeeping
+
+Firms must maintain comprehensive records of:
+- Role allocations and responsibilities.
+- Certification decisions and supporting evidence.
+- Breaches of Conduct Rules and remedial actions taken.
+
+#### 5. Regulatory Reporting
+
+Firms are required to report significant changes, breaches, or misconduct involving senior managers and certified individuals to the FCA or PRA promptly.
+
+---
+
+### Enforcement and Penalties
+
+The SMCR introduces significant consequences for non-compliance, including:
+- **Regulatory Action Against Individuals**: Senior managers can face fines, bans, or criminal charges for breaches of their Duty of Responsibility.
+- **Firm-Level Sanctions**: Firms may face financial penalties, operational restrictions, or reputational damage for systemic governance failures.
+
+---
+
+### Challenges and Best Practices for Firms
+
+**Challenges**:
+1. Ensuring clarity in the allocation of responsibilities to avoid overlaps or gaps.
+
+2. Maintaining robust systems for annual certification and ongoing monitoring.
+
+3. Navigating regulatory scrutiny and expectations around governance.
+
+**Best Practices**:
+
+- **Comprehensive Governance Frameworks**: Establish clear policies and procedures to manage responsibilities and compliance.
+- **Proactive Risk Management**: Regularly review and update risk management processes.
+- **Cultural Alignment**: Foster a culture of accountability and transparency across all levels of the organization.
+
+---
+
+### Conclusion
+
+The implementation of the SMCR represented a pivotal shift in the regulation of financial services, emphasizing accountability, governance, and ethical conduct. By adhering to its requirements, firms not only mitigate regulatory risks but also strengthen their operational resilience and consumer trust. With the regulatory landscape continuously evolving, proactive engagement with the SMCR’s principles is essential for maintaining competitive and compliant operations in the UK’s financial sector.
+
+::: {.callout-caution title="AI use"}
+An Ai tool was utilised in the drafting process for this guide.
+:::
+

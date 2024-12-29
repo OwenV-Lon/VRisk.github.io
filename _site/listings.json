@@ -1,7 +1,9 @@
 [
   {
     "listing": "/Guides.html",
-    "items": []
+    "items": [
+      "/guides/UK_SMR.html"
+    ]
   },
   {
     "listing": "/Insights.html",
