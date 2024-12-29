@@ -13,9 +13,7 @@ categories:
   - Guide
   - Notes
   - Regulations
-  - PRA
-  - FCA
-author: 
+  author: 
   - name: Owen Vallis
     id: ov
     orcid: "0000-0005-7263-7064"
