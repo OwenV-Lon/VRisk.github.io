@@ -6,7 +6,7 @@ format:
     toc-title: On This Page
     toc-location: right
 css: style.css
-title: Guide to the UK Senior Manager Regime
+title: Quick Guide to the UK Senior Manager Regime
 subtitle: "**Briefing Paper: The UK's Senior Manager and Certification Regime (SMCR)**"
 description: ""
 categories: 
