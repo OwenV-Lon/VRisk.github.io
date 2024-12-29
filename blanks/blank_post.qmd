@@ -1,0 +1,49 @@
+---
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-title: On This Page
+    toc-location: right
+
+css: style.css
+title: Title goes here
+subtitle: Subtitle goes here
+description: ""
+categories: 
+  - Horizon Scanning
+# List categories here
+author: 
+  - name: Owen Vallis
+    id: ov
+    orcid: "0000-0005-7263-7064"
+date: last-modified
+license: "CC BY-ND"
+copyright: 
+  holder: Owen Vallis
+  year: 2024
+engine: knitr
+---
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+# Introduction
+
+this is the introduction
+
+{{<lipsum>}}
+
+# First Section
+
+this is the first section
+
+{{<lipsum>}}
+
+# Second Section
+
+{{<lipsum>}}
+
