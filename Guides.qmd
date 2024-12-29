@@ -5,7 +5,7 @@ listing:
   contents: 
     - "guides/*.qmd"
   sort: "date desc"
-  type: default
+  type: grid
   categories: true
   fields: [date, title, author, description, reading-time, word-count]
   exclude: 
