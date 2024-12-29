@@ -1,12 +1,14 @@
 [
   {
     "listing": "/Guides.html",
-    "items": []
+    "items": [
+      "/guides/UK_SMR.html"
+    ]
   },
   {
     "listing": "/Insights.html",
     "items": [
-      "/posts/HorizonScanning2025.html"
+      "/posts/Horizon2025.html"
     ]
   }
 ]
