@@ -12,5 +12,5 @@ listing:
     description:
   date-format: medium
   max-items: 10
-css: style.css
+#css: style.css
 ---
