@@ -4,7 +4,7 @@
     "Repositories": [
       {
         "Name": "CRAN",
-        "URL": "https://packagemanager.posit.co/cran/latest/src/contrib/PACKAGES"
+        "URL": "https://packagemanager.posit.co/cran/latest/"
       }
     ]
   },
