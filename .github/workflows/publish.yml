@@ -24,10 +24,8 @@ jobs:
           
       - name: Set up TinyTex
         uses: quarto-dev/quarto-actions/setup@v2
-        env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-        tinytex: true
+          tinytex: true
 
       - name: Install R Dependencies
         uses: r-lib/actions/setup-renv@v2
