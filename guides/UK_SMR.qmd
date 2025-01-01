@@ -10,9 +10,9 @@ format:
 #    theme: cosmo
 #    documentclass: article
 #    papersize: A4
-#    fontfamily: Merriweather
-#    sansfont: Merriweather Sans
-#    mainfont: Merriweather Light
+#    fontfamily:
+#    sansfont: 
+#    mainfont:
 #    toc: true
 #    toc-depth: 2
 #    toc-title: Contents
