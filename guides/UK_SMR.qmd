@@ -5,16 +5,16 @@ format:
     toc: true
     toc-title: On This Page
     toc-location: right
-  pdf:
-    theme: cosmo
-    documentclass: article
-    papersize: A4
-    fontfamily: Merriweather
-    sansfont: Merriweather Sans
-    mainfont: Merriweather Light
-    toc: true
-    toc-depth: 2
-    toc-title: Contents
+#  pdf:
+#    theme: cosmo
+#    documentclass: article
+#    papersize: A4
+#    fontfamily: Merriweather
+#    sansfont: Merriweather Sans
+#    mainfont: Merriweather Light
+#    toc: true
+#    toc-depth: 2
+#    toc-title: Contents
 css: style.css
 title: Quick Guide to the UK Senior Manager Regime
 subtitle: "**Briefing Paper: The UK's Senior Manager and Certification Regime (SMCR)**"
