@@ -2,6 +2,9 @@ project:
   type: website
 
 website:
+  google-analytics: "G-1MM8SPGR75"
+  cookie-consent: true
+    type: implied
   title: "VRisk.io"
 
 #  announcement:
