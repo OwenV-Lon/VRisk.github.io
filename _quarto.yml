@@ -40,7 +40,11 @@ website:
       - Contact.qmd
       - disclaimer.qmd
   page-footer: 
-    right: "Copyright 2024, Owen Vallis"
+    right: "Copyright 2025, Owen Vallis"
+    left:
+      - href: cookies.qmd
+        text: Cookies Policy
+
   back-to-top-navigation: true
 format:
   html:

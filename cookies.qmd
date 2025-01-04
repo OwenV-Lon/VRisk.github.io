@@ -1,0 +1,80 @@
+---
+title: Cookies Policy
+---
+
+_Last updated: 04/01/2025_
+
+At vrisk.io, we value your privacy and are committed to being transparent about how we use cookies and similar technologies to improve your browsing experience. This Cookies Policy explains what cookies are, how we use them, and how you can manage your preferences.
+
+---
+
+## What Are Cookies?
+Cookies are small text files stored on your device (computer, smartphone, tablet) when you visit a website. They help websites function effectively, enhance user experience, and provide analytics data to website owners.
+
+Cookies can be:
+- **Session Cookies**: Temporary cookies that expire when you close your browser.
+- **Persistent Cookies**: Cookies that remain on your device until they expire or are deleted.
+
+---
+
+## How We Use Cookies
+**vrisk.io** uses cookies to:<br>
+1. **Enhance Website Functionality**: Ensure our website works efficiently and is accessible.<br>
+2. **Analyze Website Traffic**: Use Google Analytics to understand how visitors interact with our website and improve its performance.
+
+---
+
+## Cookies We Use
+
+### Essential Cookies
+These cookies are necessary for the website to function properly. Without these, some parts of the website may not work as intended.
+
+### Analytics Cookies
+We use Google Analytics to collect information about how visitors use vrisk.io. This includes:
+- Pages visited
+- Time spent on the site
+- Traffic sources
+
+Google Analytics helps us understand visitor behavior, allowing us to optimize our content and improve user experience. The data collected is anonymous and does not personally identify you.
+
+---
+
+## Third-Party Cookies
+Our website may also include cookies from third-party services such as:
+- Social media platforms (e.g., embedded sharing buttons).
+- External content providers (e.g., embedded videos).
+
+These third parties may use cookies in accordance with their own privacy policies.
+
+---
+
+## Managing Your Cookie Preferences
+You have control over how cookies are used on your device. You can:
+1. Adjust your browser settings to block or delete cookies.
+2. Use cookie preference tools or plugins to manage cookies on our website.
+
+**Please note**: Disabling certain cookies may affect your ability to use some features on our website.
+
+---
+
+## Google Analytics Opt-Out
+If you wish to prevent your data from being used by Google Analytics, you can:
+- Use the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
+
+---
+
+## Changes to This Policy
+We may update this Cookies Policy from time to time. When we do, we will revise the "Last updated" date at the top of this page. We encourage you to review this policy periodically to stay informed about how we use cookies.
+
+---
+
+## Contact Us
+If you have any questions about this Cookies Policy, please contact us at:
+
+**Email**: contact@vrisk.io 
+**Website**: [https://vrisk.io](https://vrisk.io)
+
+---
+
+By using vrisk.io, you consent to the use of cookies as outlined in this policy.
+
