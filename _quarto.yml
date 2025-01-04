@@ -4,7 +4,7 @@ project:
 website:
   google-analytics: "G-1MM8SPGR75"
   cookie-consent: true
-  type: implied
+    type: implied
   # policy-url: ""
   title: "VRisk.io"
 
