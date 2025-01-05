@@ -45,13 +45,12 @@ p {
 
 # Introduction
 
-this is the introduction
 
 {{<lipsum>}}
 
 # First Section
 
-this is the first section
+
 
 {{<lipsum>}}
 

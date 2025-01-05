@@ -71,7 +71,7 @@ We may update this Cookies Policy from time to time. When we do, we will revise 
 ## Contact Us
 If you have any questions about this Cookies Policy, please contact us at:
 
-**Email**: contact@vrisk.io 
+**Email**: contact@vrisk.io <br>
 **Website**: [https://vrisk.io](https://vrisk.io)
 
 ---
