@@ -1,1 +1,1 @@
-Sitemap: https://OwenV-Lon.github.io/VRisk.github.io/sitemap.xml
+Sitemap: https://vrisk.io/sitemap.xml
