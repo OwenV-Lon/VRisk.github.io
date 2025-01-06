@@ -30,7 +30,8 @@ p {
   text-align: justify
 }
 ```
-![cybercrimialstock]("posts\img\AdobeStock_179633394.jpeg"){width=80%}
+![cybercrimialstock](AdobeStock_179633394.png)<br>
+
 # Introduction
 
 this is the introduction

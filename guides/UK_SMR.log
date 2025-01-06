@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.1)  1 JAN 2025 18:12
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.1)  6 JAN 2025 16:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -144,7 +144,7 @@ LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 \g__um_primekern_muskip=\muskip18
 (c:/Users/ovall/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
 
-! LaTeX Error: File `Merriweather.sty' not found.
+! LaTeX Error: File `SegoePrint.sty' not found.
 
 Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
@@ -157,7 +157,7 @@ l.22 \ifPDFTeX
               \else^^M 
 Here is how much of TeX's memory you used:
  7418 strings out of 475826
- 160383 string characters out of 5771477
+ 160375 string characters out of 5771477
  740875 words of memory out of 5000000
  30341 multiletter control sequences out of 15000+600000
  558085 words of font info for 38 fonts, out of 8000000 for 9000
