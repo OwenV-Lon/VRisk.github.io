@@ -50,8 +50,6 @@ format:
   html:
     theme: 
       - cosmo
-#      - _bootswatch.scss
-      - _variables.scss
     code-copy: true
     code-overflow: wrap
     toc: true
