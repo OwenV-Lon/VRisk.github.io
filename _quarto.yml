@@ -48,7 +48,10 @@ website:
   back-to-top-navigation: true
 format:
   html:
-    theme: cosmo
+    theme: 
+      - cosmo
+      - _bootswatch.scss
+      - _variables.scss
     code-copy: true
     code-overflow: wrap
     toc: true
