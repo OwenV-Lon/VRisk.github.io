@@ -10,7 +10,7 @@ format:
     theme: cosmo
     documentclass: article
     papersize: A4
-    fontfamily: Segoe Print
+    fontfamily: Segoe
 #    sansfont: 
     mainfont: Segoe UI
     toc: true
