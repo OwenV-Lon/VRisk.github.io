@@ -13,7 +13,7 @@ format:
     papersize: A4
     fontfamily: fontspec
 #    sansfont: 
-    mainfont: Merriweather
+    mainfont: Junction
     toc: true
     toc-depth: 2
     toc-title: Contents
