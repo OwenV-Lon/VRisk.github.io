@@ -13,7 +13,7 @@ format:
     papersize: A4
     fontfamily: fontspec
 #    sansfont: 
-    mainfont: sffamily
+#    mainfont: sffamily
     toc: true
     toc-depth: 2
     toc-title: Contents
