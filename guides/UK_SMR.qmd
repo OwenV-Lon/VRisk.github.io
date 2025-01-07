@@ -12,7 +12,7 @@ format:
     documentclass: article
     papersize: A4
     fontfamily: fontspec
-#    sansfont: 
+    sansfont: Open Sans
 #    mainfont: sffamily
     toc: true
     toc-depth: 2
