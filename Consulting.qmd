@@ -1,6 +1,8 @@
 ---
 engine: knitr
-title: Consulting Services
+title: ""
+toc: false
+
 ---
 ```{css}
 #| echo: false
