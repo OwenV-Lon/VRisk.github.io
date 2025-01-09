@@ -37,6 +37,8 @@ website:
       - Insights.qmd
       - Guides.qmd      
     right:
+      - href: Consulting.qmd
+        text: Services
       - Contact.qmd
       - disclaimer.qmd
   page-footer: 

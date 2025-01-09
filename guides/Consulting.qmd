@@ -1,0 +1,13 @@
+---
+title: Consulting Services
+---
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+# Consulting Services:
+
+Owen Vallis, the author of VRisk.io is available for consulting engagements. Please email contact@vrisk.io 
