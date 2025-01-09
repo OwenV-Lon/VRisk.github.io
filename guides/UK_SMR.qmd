@@ -29,7 +29,8 @@ author:
   - name: Owen Vallis
     id: ov
     orcid: "0000-0005-7263-7064"
-date: 06/01/2025
+date: 01/06/2025
+# current date format here is MM/DD/YYYY
 license: "CC BY-ND"
 copyright: 
   holder: Owen Vallis

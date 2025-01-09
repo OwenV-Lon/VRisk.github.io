@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+toc: false
 ---
 
 ### Email the author at:
