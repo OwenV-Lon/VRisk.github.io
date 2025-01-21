@@ -78,9 +78,9 @@ The following analysis represents our best current understanding of the threats 
 
 # Top Cyber-Security Risks for 2025
 
-
-![2025 Cyber Security Threats](CSThreats_2025.png)<br>
-
+<!--
+#![2025 Cyber Security Threats](CSThreats_2025.png)<br>
+-->
 
 ## AI-Driven Attacks
 **Priority Level: 1 (Critical)**
