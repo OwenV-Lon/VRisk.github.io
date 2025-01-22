@@ -286,6 +286,13 @@
       ],
       "Hash": "df99277f63d01c34e95e3d2f06a79736"
     },
+    "rsvg": {
+      "Package": "rsvg",
+      "Version": "2.6.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "7772252f515fb6ab21cf1c08b07a9abd"
+    },
     "sass": {
       "Package": "sass",
       "Version": "0.4.9",
