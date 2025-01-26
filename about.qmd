@@ -2,6 +2,7 @@
 title: "About"
 toc: false
 engine: knitr
+echo: false
 ---
 ```{css}
 #| echo: false
@@ -9,13 +10,12 @@ p {
   text-align: justify
 }
 ```
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="owen-vallis-risk-manager" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/owen-vallis-risk-manager?trk=profile-badge">Owen Vallis</a>
+</div>
 
 
-<br>
-
-#### About the Author
-
-<br>
 <br>
 
 

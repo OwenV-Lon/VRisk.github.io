@@ -50,6 +50,7 @@ website:
   back-to-top-navigation: true
 format:
   html:
+    embed-resources: true
     theme: 
       - cosmo
     code-copy: true
